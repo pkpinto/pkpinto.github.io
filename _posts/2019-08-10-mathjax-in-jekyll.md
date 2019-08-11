@@ -4,8 +4,6 @@ title:  'MathJax in Jekyll'
 date:   2019-08-10 22:50:00 +0200
 categories: jekyll update mathjax
 ---
-{% include mathjax.html %}
-
 Just the example provided by [Arthur O'Dwyer](https://quuxplusone.github.io/blog/2018/08/05/mathjax-in-jekyll/).
 
 Step three is to realize that the Markdown processor used by Jekyll — its name is "Kramdown" —
